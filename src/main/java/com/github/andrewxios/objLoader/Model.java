@@ -27,7 +27,7 @@ public class Model {
 		Face(Vector3f vertIn, Vector3f normIn, Vector3f textIn) {
 			this.vertIn = vertIn;
 			this.normIn = normIn;
-			this.normIn = textIn;
+			this.textIn = textIn;
 		}
 
 
