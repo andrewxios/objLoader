@@ -14,7 +14,7 @@ public class Model {
 
 	// nested class
 	static class Face {
-		// Indices for vertices and normals
+		// Indices for vertices normals and texture coorinates
 		private Vector3f vertIn;
 		private Vector3f normIn;
 		private Vector3f textIn;
